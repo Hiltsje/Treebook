@@ -7,6 +7,8 @@ gem 'rails', '4.2.1'
 gem 'sqlite3'
 # devise gem for account/login system.
 gem 'devise'
+# Easy way to make forms. It's compatible with boodstrap.
+gem 'simple_form'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
